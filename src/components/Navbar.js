@@ -2,22 +2,22 @@ export default function Navbar() {
   return (
     <ul className="Navbar">
       <li className="Navbar-item">
-        <a href="#"> Tableware </a>
+        <a href="https://github.com/decadent-cuB3r/C6_GridRWD"> Tableware </a>
       </li>
       <li className="Navbar-item">
-        <a href="#"> Cookware </a>
+        <a href="https://github.com/decadent-cuB3r/C6_GridRWD"> Cookware </a>
       </li>
       <li className="Navbar-item">
-        <a href="#"> Home accessories </a>
+        <a href="https://github.com/decadent-cuB3r/C6_GridRWD"> Home accessories </a>
       </li>
       <li className="Navbar-item">
-        <a href="#"> Lighting </a>
+        <a href="https://github.com/decadent-cuB3r/C6_GridRWD"> Lighting </a>
       </li>
       <li className="Navbar-item">
-        <a href="#"> Textile </a>
+        <a href="https://github.com/decadent-cuB3r/C6_GridRWD"> Textile </a>
       </li>
       <li className="Navbar-item">
-        <a href="#"> Furniture </a>
+        <a href="https://github.com/decadent-cuB3r/C6_GridRWD"> Furniture </a>
       </li>
     </ul>
   );
