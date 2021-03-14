@@ -28,16 +28,19 @@
 .Navbar :hover {
   color: oldlace;
 }
+
 .Navbar-item{
   list-style: none;
   margin-top: 2rem;
   list-style: none;
   text-decoration: none;
 }
+
 .Navbar-item a{
   text-decoration: none;
   color: #8183ff;
 }
+
 .main {
   grid-area: main;
 }
